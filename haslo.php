@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+    <title>Skrypt haslo</title>
+    <meta charset="UTF=8">
+</head>
+<body>
+    <form action="haslo2.php" method="post">
+        Podaj haslo: <input type="password" name="haslo" /><br>
+        Podaj haslo ponownie: <input type="password" name="potwierdzenie" />
+        <input type="submit" />
+    </form>
+</body>
+</html>
